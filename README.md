@@ -23,7 +23,7 @@ The goal of this project is to experiment with the SlowFast architecture and eva
 
 - **UCF101**: A widely used action recognition dataset with 101 action classes.
 - Dataset contains realistic action videos collected from YouTube.
-- I used a small subset of it
+- I used a small subset of it.
 Make sure you download UCF101 and organize it in the expected folder structure before training/testing.
 
 ---
